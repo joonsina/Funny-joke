@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="ur">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Urdu Jokes App</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h1>🤣 اردو کے بہترین لطیفے 🤣</h1>
+    <div id="joke" class="joke-container">لطیفہ لوڈ ہو رہا ہے...</div>
+    <button class="next-btn" onclick="showJoke()">اگلا لطیفہ 🤣</button>
+    
+    <!-- Banner Ads -->
+    <div class="banner-ad">
+        <script type="text/javascript" src="https://your-adsterra-banner-link.com"></script>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
